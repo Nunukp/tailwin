@@ -1,0 +1,116 @@
+body {
+  background: #121214;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.h {
+  display: flex;
+  gap: 10px;
+  color: white;
+  text-decoration: none;
+}
+.header3 > button {
+  width: 100px;
+  padding: 15px;
+  border-radius: 30px;
+}
+.header3 {
+  margin: 10px;
+  text-align: right;
+}
+.header2 {
+  text-align: left;
+}
+.img {
+  width: 1200px;
+  height: 744px;
+}
+
+.h1 {
+  display: flex;
+ 
+  padding-top: 200px;
+  color: white;
+}
+.con{background-image: url(./IMAGE\ \(3\).png);width: 1200px;
+  height: 744px;
+  top: 71px;
+  gap: 0px;
+  opacity: 0px;
+  
+background-repeat: no-repeat;
+
+}
+.con > h1 {max-width: 200px;}
+.con > button{width: 125px;
+  height: 56px;
+  top: 591px;
+  left: 48px;
+  gap: 0px;
+  border-radius: 20px;
+  opacity: 0px;
+  background: #0033FF;
+}
+h1{max-width: 300px;}
+h2{text-align: center;color: white;}
+.cointer{display: flex; 
+  justify-content: space-between;}
+.cointer2{padding-top: 180px;
+  color: white;margin: 10px;}
+  .cointer2 > button{height: 56px;
+    top: 591px;
+    width: 100px;
+    left: 48px;
+    gap: 0px;
+    padding: 10px;
+    border-radius: 20px;
+    opacity: 0px;
+    background: #0033FF;
+  padding-top: 10px;}
+  .q{display: flex;margin: 150px;}
+  .w{width: 361px;
+    background-color: white;
+    height: 453px;
+    top: 1926px;
+    left: 61px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    margin: 10px;
+    
+    }
+    .e{width: 361px;
+      background-color: white;
+      height: 453px;
+      top: 1926px;
+      left: 61px;
+      gap: 0px;
+      border-radius: 8px 0px 0px 0px;
+      opacity: 0px;
+    margin: 10px;}
+      .r{width: 361px;
+        background-color: white;
+        height: 453px;
+        top: 1926px;
+        left: 61px;
+        gap: 0px;
+        border-radius: 8px 0px 0px 0px;
+        opacity: 0px;margin: 10px;}
+        .w>img{margin: 60px;}
+        .w>p{margin: 20px;}
+        .e>img{margin: 60px;}
+        .e>p{margin: 20px;}
+        .r>img{margin: 60px;}
+        .r>p{margin: 20px;}
+        .coin{gap: 10px;
+        margin: 10px 10px ;display: flex;
+        background: #344346;
+        width: 1200px;
+        height: 78px;
+        top: 2432px;
+        gap: 0px;
+        opacity: 0px;
+        }
